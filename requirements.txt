@@ -2,3 +2,4 @@ Flask>=2.0
 pandas>=1.5
 openpyxl>=3.0
 playwright>=1.40
+gunicorn
